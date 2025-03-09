@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
